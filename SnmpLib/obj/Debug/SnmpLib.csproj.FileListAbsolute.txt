@@ -1,0 +1,4 @@
+C:\git\RawSNMP\SnmpLib\bin\Debug\SnmpLib.pdb
+C:\git\RawSNMP\SnmpLib\obj\Debug\SnmpLib.pdb
+C:\git\RawSNMP\SnmpLib\bin\Debug\SnmpLib.exe
+C:\git\RawSNMP\SnmpLib\obj\Debug\SnmpLib.exe
